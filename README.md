@@ -1,7 +1,5 @@
 # OTCLP MERN App
 
-## Live site: (click here)[www.https//barsha-portfolio.netlify.com]
-
 ## Description:
 - User and signup or login using email address or google
 - User is able to edit his profile later
